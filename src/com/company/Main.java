@@ -113,7 +113,7 @@ public class Main {
         Key key;
         key =terminal.readInput();
         if(key == null){
-            
+
             player.directionX = player.directionX;
             player.directionX = player.directionX;
 
